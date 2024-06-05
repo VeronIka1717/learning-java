@@ -82,7 +82,7 @@ public class Variables {
         //var
         var myCurrentAge = 26;
         var myFullName = "Veronika Griscuka";
-        
+
 
     }
 }
